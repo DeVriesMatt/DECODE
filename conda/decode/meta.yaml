@@ -1,6 +1,6 @@
 package:
   name: decode
-  version: "0.1.dev"
+  version: "0.9.1"
 
 source:
      - path: ../..
